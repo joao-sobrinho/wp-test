@@ -1,0 +1,18 @@
+/*
+Theme Name:     WP Test
+Theme URI:      http://localhost/wp-test/
+Description:    Twenty Sixteen child theme.
+Author:         Roberto Ornelas
+Author URI:     http://frontkom.no
+Template:       twentysixteen
+Version:        0.1.0
+*/
+
+.site-title {
+  font-size: 3rem;
+  font-weight: 400;
+}
+
+.site-description {
+  font-size: 0.94rem;
+}
