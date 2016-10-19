@@ -33,3 +33,11 @@ section#text-3 .textwidget iframe{
 }
 
 /* EOF CASO 1 */
+
+
+
+/* CASO 2 */
+#post-2 header{
+	display:none;
+}
+/* CASO 2 */
