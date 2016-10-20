@@ -105,4 +105,8 @@ input[type="submit"][disabled]:focus,
 	font-family: "Droid Serif", serif;
 }
 
+.hidden{
+  display: none !important;
+}
+
 /* EOF Caso 3 */

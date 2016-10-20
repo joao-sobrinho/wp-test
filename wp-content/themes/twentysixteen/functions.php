@@ -204,9 +204,9 @@ function twentysixteen_fonts_url() {
 		$fonts[] = 'Merriweather:400,700,900,400italic,700italic,900italic';
 	}
 
-	/* translators: If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language. */
-	if ( 'off' !== _x( 'on', 'Montserrat font: on or off', 'twentysixteen' ) ) {
-		$fonts[] = 'Montserrat:400,700';
+	/* translators: If there are characters in your language that are not supported by Droid Serif, translate this to 'off'. Do not translate into your own language. */
+	if ( 'off' !== _x( 'on', 'Droid Serif font: on or off', 'twentysixteen' ) ) {
+		$fonts[] = 'Droid+Serif:400,700';
 	}
 
 	/* translators: If there are characters in your language that are not supported by Inconsolata, translate this to 'off'. Do not translate into your own language. */
